@@ -1,4 +1,4 @@
-![Lab Overview](images/flightschool.png)
+![Lab Overview](images/ace-automation-banner.png)
 
 # Welcome to Aviatrix FlightSchool!  
 
